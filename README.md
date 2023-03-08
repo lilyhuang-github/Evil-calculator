@@ -1,4 +1,6 @@
 # Evil-calculator
+This is made by me to learn more python (I know C & C++) and also GUI.
+
 It's a calculator that's evil (tells you if your calculation is correct or not)
 JERMA CALCULATOR
 
